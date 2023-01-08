@@ -1,0 +1,30 @@
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.exe
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.deps.json
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.dll
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.dll
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\refint\task2.dll
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.pdb
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Users\feodo\OneDrive\Рабочий стол\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\ref\task2.dll
+D:\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.exe
+D:\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.deps.json
+D:\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+D:\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.dll
+D:\GeekBrains\C#\homework2\task2\bin\Debug\net7.0\task2.pdb
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.dll
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\refint\task2.dll
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.pdb
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+D:\GeekBrains\C#\homework2\task2\obj\Debug\net7.0\ref\task2.dll
